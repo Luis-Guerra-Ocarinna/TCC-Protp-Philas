@@ -14,8 +14,7 @@ CHANGELOG.md
 # Frameworks
 bootstrap/
 jquery/
-# nn sei se esse é Framework nn (TypeScript v1 declaration files)
-# typings/ 
+!typings/globals/jquery/
 
 # dotenv environment variables file
 .env
@@ -27,7 +26,7 @@ jquery/
 # Coisas_antigas/
 # sem_mvc/
 
-# Pasta para salvar credenciais 
+# Pasta para salvar credenciais
 # logins_lembrar/
 
 # Images (alteram fácil)
